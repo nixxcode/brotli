@@ -5,6 +5,7 @@ buildfiles/
 **/obj/
 dist/
 **/bazel-*
+out/
 
 # Python
 __pycache__/
